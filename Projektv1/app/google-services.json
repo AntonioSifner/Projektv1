@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758237614920",
+    "firebase_url": "https://reviewshotel-90e81-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reviewshotel-90e81",
+    "storage_bucket": "reviewshotel-90e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758237614920:android:c8f989e07536d8a166997d",
+        "android_client_info": {
+          "package_name": "com.example.projektv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758237614920-6plo441n57uhbhckehpd51eun1n2e9mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TFu1y_TF7B9sks66eH4MalOvmx177r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758237614920-6plo441n57uhbhckehpd51eun1n2e9mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
